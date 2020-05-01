@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\beret\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\beret\\.nuget\\packages"
+    ]
+  }
+}
