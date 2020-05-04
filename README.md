@@ -15,37 +15,37 @@ Numerais romanos são baseados em sete símbolos.
 
 <table>
   <thead>
-    <th>Símbolo</th>
-    <th>Valor</th>
+    <th align="center">Símbolo</th>
+    <th align="center">Valor</th>
   </thead>
   <tbody>
     <tr>
-      <td>I</td>
-      <td>1</td>
+      <td align="center">I</td>
+      <td align="center">1</td>
     </tr>
     <tr>
-      <td>V</td>
-      <td>5</td>
+      <td align="center">V</td>
+      <td align="center">5</td>
     </tr>
     <tr>
-      <td>X</td>
-      <td>10</td>
+      <td align="center">X</td>
+      <td align="center">10</td>
     </tr>
     <tr>
-      <td>L</td>
-      <td>50</td>
+      <td align="center">L</td>
+      <td align="center">50</td>
     </tr>
     <tr>
-      <td>C</td>
-      <td>100</td>
+      <td align="center">C</td>
+      <td align="center">100</td>
     </tr>
     <tr>
-      <td>D</td>
-      <td>500</td>
+      <td align="center">D</td>
+      <td align="center">500</td>
     </tr>
     <tr>
-      <td>M</td>
-      <td>1000</td>
+      <td align="center">M</td>
+      <td align="center">1000</td>
     </tr>
   </tbody>
 </table>
