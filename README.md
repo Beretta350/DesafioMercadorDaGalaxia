@@ -1,5 +1,5 @@
 ## Como executar?
-Basta ir no seu prompt de comando, acessar a pasta do executavel e escrever DesafioSelecaoMercadorGalaxia.exe <"caminho_do_arquivo.txt">.
+Basta ir no seu prompt de comando, acessar a pasta do executavel e escrever (DesafioSelecaoMercadorGalaxia.exe <"caminho_do_arquivo.txt">).
 
 ## Definição do problema:
 
