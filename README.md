@@ -3,15 +3,15 @@ Basta ir no seu prompt de comando, acessar a pasta do executavel e escrever Desa
 
 <h2>Definição do problema:</h2>
 
-Você decidiu abandonar o planeta Terra de vez, após o último colapso ecológico do planeta. Com os recursos que você possui, você pode comprar uma nave espacial, deixar a Terra e voar por toda a galáxia para vender metais de vários tipos.<br>
+Você decidiu abandonar o planeta Terra de vez, após o último colapso ecológico do planeta. Com os recursos que você possui, você pode comprar uma nave espacial, deixar a Terra e voar por toda a galáxia para vender metais de vários tipos.
 
-Comprar e vender por toda a galáxia exige que você converta números e unidades, logo você decidiu escrever um programa para ajudá-lo.<br> 
+Comprar e vender por toda a galáxia exige que você converta números e unidades, logo você decidiu escrever um programa para ajudá-lo.
 
 Os números usados nas transações intergalácticas seguem convenção similar a dos numerais romanos, e devem ser traduzidos para que as transações possam se realizar.
 
 <h3>Sobre os numerais romanos:</h3>
 Numerais romanos são baseados em sete símbolos.
-<br>
+
 <table style="margin-left:auto;margin-right:auto;">
   <thead>
     <th>Símbolo</th>
@@ -48,7 +48,6 @@ Numerais romanos são baseados em sete símbolos.
     </tr>
   </tbody>
 </table>
-<br>
 Números são formados combinando-se símbolos e adicionando-se valores. Por exemplo, MMVI é 1000+1000+5+1=2006. Geralmente, símbolos são colocados em ordem de valor, começando com os valores maiores. Quando um valor menor precede um valor maior, os valores menores são subtraídos dos valores maiores, e o resultado é adicionado ao total. Por exemplo, MCMXLIV = 1000 + (1000 – 100) + (50 – 10) + (5 – 1) = 1944.<br>
 
 Os símbolos “I”, “X”, “C”, e “M” podem ser repetidos, no máximo, 3 vezes em sucessão (não mais do que 3. Eles podem aparecer mais vezes se o terceiro e quarto são separados por um valor menor, como em XXXIX). “D”, “L” e “V” nunca podem ser repetidos. “I” pode ser subtraído somente do “V” e do “X”. “X” pode ser subtraído somente do “L” e do “C”. “C” pode ser subtraído do “D” e do “M” somente. “V”, “L” e “D” não podem ser subtraídos de nenhum símbolo. Somente um símbolo de valor menor pode ser subtraído de qualquer símbolo de valor maior válido.<br> 
