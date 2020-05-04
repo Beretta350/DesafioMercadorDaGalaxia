@@ -13,7 +13,7 @@ Os números usados nas transações intergalácticas seguem convenção similar 
 Numerais romanos são baseados em sete símbolos.
 <center>
 | Símbolo | Valor |
-| ------------- | ------------- |
+|:------------- | -------------:|
 | I  | 1 |
 | V  | 5  |
 | X  | 10 |
