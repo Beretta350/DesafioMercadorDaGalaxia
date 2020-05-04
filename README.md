@@ -1,12 +1,17 @@
 <h2> Como executar? </h2>
-Basta ir no seu prompt de comando, acessar a pasta do executavel e escrever DesafioSelecaoMercadorGalaxia.exe <"caminho_do_arquivo.txt">
+Basta ir no seu prompt de comando, acessar a pasta do executavel e escrever DesafioSelecaoMercadorGalaxia.exe <"caminho_do_arquivo.txt">.
 
 <h2>Definição do problema:</h2>
 
-Você decidiu abandonar o planeta Terra de vez, após o último colapso ecológico do planeta. Com os recursos que você possui, você pode comprar uma nave espacial, deixar a Terra e voar por toda a galáxia para vender metais de vários tipos.Comprar e vender por toda a galáxia exige que você converta números e unidades, logo você decidiu escrever um programa para ajudá-lo. Os números usados nas transações intergalácticas seguem convenção similar a dos numerais romanos, e devem ser traduzidos para que as transações possam se realizar.
+Você decidiu abandonar o planeta Terra de vez, após o último colapso ecológico do planeta. Com os recursos que você possui, você pode comprar uma nave espacial, deixar a Terra e voar por toda a galáxia para vender metais de vários tipos.<br>
+
+Comprar e vender por toda a galáxia exige que você converta números e unidades, logo você decidiu escrever um programa para ajudá-lo.<br> 
+
+Os números usados nas transações intergalácticas seguem convenção similar a dos numerais romanos, e devem ser traduzidos para que as transações possam se realizar.
 
 <h3>Sobre os numerais romanos:</h3>
-Numerais romanos são baseados em sete símbolos.<br>
+Numerais romanos são baseados em sete símbolos.
+<br>
 <table style="margin-left:auto;margin-right:auto;">
   <thead>
     <th>Símbolo</th>
