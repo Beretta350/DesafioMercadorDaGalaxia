@@ -11,8 +11,8 @@ Os números usados nas transações intergalácticas seguem convenção similar 
 
 ### Sobre os numerais romanos:
 Numerais romanos são baseados em sete símbolos.
-
-<table align="center">
+<p align="center"></p>
+<table>
   <thead>
     <th>Símbolo</th>
     <th>Valor</th>
@@ -48,7 +48,7 @@ Numerais romanos são baseados em sete símbolos.
     </tr>
   </tbody>
 </table>
-
+<p></p>
 Números são formados combinando-se símbolos e adicionando-se valores. Por exemplo, MMVI é 1000+1000+5+1=2006. Geralmente, símbolos são colocados em ordem de valor, começando com os valores maiores. Quando um valor menor precede um valor maior, os valores menores são subtraídos dos valores maiores, e o resultado é adicionado ao total. Por exemplo, MCMXLIV = 1000 + (1000 – 100) + (50 – 10) + (5 – 1) = 1944.
 
 Os símbolos “I”, “X”, “C”, e “M” podem ser repetidos, no máximo, 3 vezes em sucessão (não mais do que 3. Eles podem aparecer mais vezes se o terceiro e quarto são separados por um valor menor, como em XXXIX). “D”, “L” e “V” nunca podem ser repetidos. “I” pode ser subtraído somente do “V” e do “X”. “X” pode ser subtraído somente do “L” e do “C”. “C” pode ser subtraído do “D” e do “M” somente. “V”, “L” e “D” não podem ser subtraídos de nenhum símbolo. Somente um símbolo de valor menor pode ser subtraído de qualquer símbolo de valor maior válido.
