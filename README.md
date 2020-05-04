@@ -1,7 +1,7 @@
 # DesafioMercadorDaGalaxia
 Desafio mercador da galáxia proposto pela DELL IT Academy como etapa para processo seletivo.  
 
-# h2 Como executar?
+<h2> Como executar? </h2>
 Basta ir no seu prompt de comando, acessar a pasta do executavel e escrever DesafioSelecaoMercadorGalaxia.exe <"caminho_do_arquivo.txt">
 
 # h2 Definição do problema:
