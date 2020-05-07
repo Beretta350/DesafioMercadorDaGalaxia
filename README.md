@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#computer-como-executar?">Como executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-definição-do-problema:">Definição do problema</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-sobre-os-numerais-romanos:">Numerais romanos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entradas-e-saidas-do-programa:">Entrada e saída</a>&nbsp;&nbsp;&nbsp;
+  <a href="#computer-como-executar">Como executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-definição-do-problema">Definição do problema</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#symbols-sobre-os-numerais-romanos">Numerais romanos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#outbox_tray-entradas-e-saidas-do-programa">Entrada e saída</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :computer: Como executar?
@@ -17,7 +17,7 @@ Comprar e vender por toda a galáxia exige que você converta números e unidade
 
 Os números usados nas transações intergalácticas seguem convenção similar a dos numerais romanos, e devem ser traduzidos para que as transações possam se realizar.
 
-### Sobre os numerais romanos:
+### :symbols: Sobre os numerais romanos:
 Numerais romanos são baseados em sete símbolos.
 
  <table align="center">
@@ -63,7 +63,7 @@ Os símbolos “I”, “X”, “C”, e “M” podem ser repetidos, no máxim
 
 Um número escrito em numerais arábicos (nossos números) podem ser quebrados em dígitos. Por exemplo, 1903 é composto de 1, 9, 0 e 3. Para escrever o numeral romano, cada um dos dígitos diferentes de zero deve ser tratado separadamente. No exemplo acima, 1000 = M, 900 = CM, e 3 = III. Assim, 1903 = MCMIII (Fonte: Wikipedia, http://en.wikipedia.org/wiki/Roman_numerals).
 
-### Entradas e saidas do programa:
+### :outbox_tray: Entradas e saidas do programa:
 
 As entradas para o seu programa consistem de linhas de texto em um arquivo texto detalhando as suas anotações sobre a conversão entre unidades intergalácticas e numerais romanos. Você deve lidar com anotações inválidas de forma apropriada e gerar a saída na tela.
 
