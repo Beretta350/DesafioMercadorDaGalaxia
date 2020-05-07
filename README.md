@@ -1,8 +1,15 @@
-## Como executar?
+<p align="center">
+  <a href="#computer-Como">Como executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-Definição">Definição do problema</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Sobre">Numerais romanos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Entradas">Entrada e saída</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-Navegue até a pasta do executavel pelo terminal `bin\Release\netcoreapp3.1` e execute `DesafioSelecaoMercadorGalaxia.exe <"caminho_do_arquivo.txt">`.
+## :computer: Como executar?
 
-## Definição do problema:
+Navegue até a pasta do executavel pelo terminal `bin\Release\netcoreapp3.1` e execute `DesafioSelecaoMercadorGalaxia.exe <"caminho_do_arquivo.txt">`. Lembrando que para funcionar corretamente o arquivo de texto deve estar na mesma pasta do executavel.
+
+## :memo: Definição do problema:
 
 Você decidiu abandonar o planeta Terra de vez, após o último colapso ecológico do planeta. Com os recursos que você possui, você pode comprar uma nave espacial, deixar a Terra e voar por toda a galáxia para vender metais de vários tipos.
 
@@ -13,11 +20,10 @@ Os números usados nas transações intergalácticas seguem convenção similar 
 ### Sobre os numerais romanos:
 Numerais romanos são baseados em sete símbolos.
 
-<p align="center">
-  <table>
+ <table align="center">
   <thead>
-    <th align="center">Símbolo</th>
-    <th align="center">Valor</th>
+    <th align="center">&nbsp;&nbsp;Símbolo&nbsp;&nbsp;</th>
+    <th align="center">&nbsp;Valor&nbsp;</th>
   </thead>
   <tbody>
     <tr>
@@ -50,7 +56,6 @@ Numerais romanos são baseados em sete símbolos.
     </tr>
   </tbody>
 </table>
-</p>
 
 Números são formados combinando-se símbolos e adicionando-se valores. Por exemplo, MMVI é 1000+1000+5+1=2006. Geralmente, símbolos são colocados em ordem de valor, começando com os valores maiores. Quando um valor menor precede um valor maior, os valores menores são subtraídos dos valores maiores, e o resultado é adicionado ao total. Por exemplo, MCMXLIV = 1000 + (1000 – 100) + (50 – 10) + (5 – 1) = 1944.
 
