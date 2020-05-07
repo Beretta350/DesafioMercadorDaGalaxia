@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#computer-Como">Como executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-Definição">Definição do problema</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Sobre">Numerais romanos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Entradas">Entrada e saída</a>&nbsp;&nbsp;&nbsp;
+  <a href="#computer-como-executar?">Como executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-definição-do-problema:">Definição do problema</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-os-numerais-romanos:">Numerais romanos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-entradas-e-saidas-do-programa:">Entrada e saída</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :computer: Como executar?
