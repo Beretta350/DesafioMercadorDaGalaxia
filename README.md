@@ -1,5 +1,6 @@
 ## Como executar?
-Basta ir no seu prompt de comando, acessar a pasta do executavel e escrever (DesafioSelecaoMercadorGalaxia.exe <"caminho_do_arquivo.txt">).
+
+Navegue até a pasta do executavel pelo terminal `bin\Release\netcoreapp3.1` e execute `DesafioSelecaoMercadorGalaxia.exe <"caminho_do_arquivo.txt">`.
 
 ## Definição do problema:
 
@@ -12,8 +13,8 @@ Os números usados nas transações intergalácticas seguem convenção similar 
 ### Sobre os numerais romanos:
 Numerais romanos são baseados em sete símbolos.
 
-
-<table>
+<p align="center">
+  <table>
   <thead>
     <th align="center">Símbolo</th>
     <th align="center">Valor</th>
@@ -49,7 +50,7 @@ Numerais romanos são baseados em sete símbolos.
     </tr>
   </tbody>
 </table>
-
+</p>
 
 Números são formados combinando-se símbolos e adicionando-se valores. Por exemplo, MMVI é 1000+1000+5+1=2006. Geralmente, símbolos são colocados em ordem de valor, começando com os valores maiores. Quando um valor menor precede um valor maior, os valores menores são subtraídos dos valores maiores, e o resultado é adicionado ao total. Por exemplo, MCMXLIV = 1000 + (1000 – 100) + (50 – 10) + (5 – 1) = 1944.
 
